@@ -1,3 +1,9 @@
+dependencia pandas - https://pandas.pydata.org/docs/getting_started/install.html#install-recommended-dependencies
+
+
+
+
+
 No dia a dia de um cientista de dados que trabalha em uma empresa, são solicitadas uma variedade de tarefas e responsabilidades. Alguns exemplos incluem:
 
 1. Análise de dados: Realizar análises exploratórias de dados para identificar insights, tendências e padrões relevantes.
