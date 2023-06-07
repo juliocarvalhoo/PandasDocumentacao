@@ -1,3 +1,5 @@
+Dataframe de vendas
+Exercicios: 
 
 1-Qual é o valor total de vendas por categoria de produto?
 2-Quais são os produtos mais vendidos em cada região?
